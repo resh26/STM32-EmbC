@@ -20,5 +20,7 @@ Task 4: Implementing a basic Debit Transaction machine
 
 Task 5: Extracting data from received GPS string 
 
+Task 6: Display Pot value from ADC port and display it on OLED 
+
 
 NOTE: There are few file header which are already code zip doesn't contain them. Only maon file user created files are been zip in the folder.
